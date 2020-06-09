@@ -1,6 +1,6 @@
 <h1>Code for "Classification Under Misspecification: Halfspaces, Generalized Linear Models, and Connections to Evolvability"</h1>
 
-These are scripts for reproducing our paper "Classification Under Misspecification: Halfspaces, Generalized Linear Models, and Connections to Evolvability."
+These are scripts for reproducing our paper "Classification Under Misspecification: Halfspaces, Generalized Linear Models, and Connections to Evolvability" (<a href="https://arxiv.org/abs/2006.04787">preprint</a>).
 
 <h2>Contents</h2>
 
